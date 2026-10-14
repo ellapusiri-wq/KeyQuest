@@ -1,0 +1,22 @@
+# KEY QUEST: The Mystery Maze 🎮
+
+KeyQuest is an adventure maze game built using Python and Pygame.
+
+## Features
+- Interactive maze exploration
+- Key collection and exit challenges
+- Multiple levels
+- Puzzles and power-ups
+
+## Controls
+- Arrow keys: Move the player
+- Follow the in-game instructions to complete each level.
+
+## How to Run
+1. Install Python.
+2. Install Pygame using `py -m pip install pygame`.
+3. Run `python main3.py`.
+
+## Technologies
+- Python
+- Pygame
